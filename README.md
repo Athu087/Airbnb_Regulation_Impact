@@ -1,6 +1,7 @@
 # 🏡 AirBnB Listing & Reviews – Impact of Regulations
 
-![Airbnb Logo](https://www.digital.ink/wp-content/uploads/2023/04/airbnb-logo-1.png)
+![Airbnb Logo](https://github.com/Athu087/Airbnb_Regulation_Impact/blob/1ec1491117182b61c945e730de100e7de844f19b/airbnb_logo_detail.jpg?raw=true)
+
 
 This project explores the **impact of government regulations** on the growth and pricing trends of AirBnB listings across major global cities using data from **AirBnB Listings & Reviews**.
 
